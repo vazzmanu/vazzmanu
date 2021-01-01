@@ -4,7 +4,7 @@ I´m a Mechatronic Engineering and Data Science student passionate about Data Sc
 As Michel Eyquem de Montaigne said:
 >It is good to rub, and polish our brain against that of others.
 
-I will be documenting and sharing the tips that worked and the knowledge I can gather during the journey so if you are interested, come along with me and lets `connect()` or checkout [my website](https://wwww.vazzmanu.github.io "vazzmanu.com") .
+I will be documenting and sharing the tips that worked and the knowledge I can gather during the journey so if you are interested, come along with me and lets `connect()` or checkout [my website](https://vazzmanu.github.io "vazzmanu.com") .
 
 |Page|Link|
 |----|----|
