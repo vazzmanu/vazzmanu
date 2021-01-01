@@ -9,5 +9,6 @@ I will be documenting and sharing the tips that worked and the knowledge I can g
 |Page|Link|
 |----|----|
 |LinkedIn |[Let´s connect 🙋‍♂️](https://www.linkedin.com/in/vazzmanu/ "LinkedIn")|
+|Medium|[Last publication 📰](https://medium.com/@vazzmanu "Medium")
 |Kaggle  |[Check me out 👨‍💻](https://www.kaggle.com/vazzmanu "Kaggle")|
 |Instagram| [Besties? k, no 😅](https://www.instagram.com/vazzmanu/ "Instagram")|
