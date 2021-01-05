@@ -11,13 +11,11 @@ As Michel Eyquem de Montaigne said:
 ## Find me around the web 🌎:
 I will be documenting and sharing the tips that worked and the knowledge I can gather during the journey so if you are interested, come along with me and lets `connect()` or checkout [my website](https://vazzmanu.github.io "vazzmanu.com") .
 
-|Page|Link|
-|----|----|
-|LinkedIn |[Let´s connect 🙋‍♂️](https://www.linkedin.com/in/vazzmanu/ "LinkedIn")|
-|Medium|[Last publication 📰](https://medium.com/@vazzmanu "Medium")
-|Kaggle  |[Check me out 👨‍💻](https://www.kaggle.com/vazzmanu "Kaggle")|
-|Instagram| [Besties? k, no 😅](https://www.instagram.com/vazzmanu/ "Instagram")|
-
+<ul>
+  <li><a href="https://www.linkedin.com/in/vazzmanu/ ">Let´s connect 🙋‍♂️</a></li>
+  <li><a href="https://medium.com/@vazzmanu">Last publication 📰</a></li>
+  <li><a href="https://www.kaggle.com/vazzmanu">Check me out 👨‍💻</a></li>
+</ul>
 
 ## Useful Repositories 🤜🤛:
 <a href="https://github.com/vazzmanu/HackerRank_solutions">
