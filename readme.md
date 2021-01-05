@@ -8,6 +8,7 @@ I´m a Mechatronic Engineering and Data Science student passionate about Data Sc
 As Michel Eyquem de Montaigne said:
 >It is good to rub, and polish our brain against that of others.
 
+## Find me around the web 🌎:
 I will be documenting and sharing the tips that worked and the knowledge I can gather during the journey so if you are interested, come along with me and lets `connect()` or checkout [my website](https://vazzmanu.github.io "vazzmanu.com") .
 
 |Page|Link|
@@ -18,7 +19,7 @@ I will be documenting and sharing the tips that worked and the knowledge I can g
 |Instagram| [Besties? k, no 😅](https://www.instagram.com/vazzmanu/ "Instagram")|
 
 
-## Useful Repositories:
+## Useful Repositories 🤜🤛:
 <a href="https://github.com/vazzmanu/HackerRank_solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vazzmanu&repo=HackerRank_solutions&title_color=1d1f21&text_color=1d1f21&icon_color=1d1f21&bg_color=e5e4e2" />
 </a>
